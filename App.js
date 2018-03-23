@@ -13,7 +13,7 @@ export default class App extends Component {
 
   componentWillMount(){
     const config = {
-    apiKey: 'youapikey',
+    apiKey: 'AIzaSyATFn6Wovm0YCWKG4cq1mfhldxYEAY4qFo',
     authDomain: 'manager-8fb13.firebaseapp.com',
     databaseURL: 'https://manager-8fb13.firebaseio.com',
     projectId: 'manager-8fb13',
